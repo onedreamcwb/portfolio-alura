@@ -1,0 +1,160 @@
+
+# 1º Passo 
+##  Desenvolver o Html da página 
+* Temos um título
+* Um parágrafo
+* 2 botões
+* 1 imagem
+
+## Oque Aprendi
+* Como consultar o layout do projeto no Figma;
+* Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
+* A função de cada tag meta.
+* O que é CSS (Cascading Style Sheets);
+* Estilização na prática;
+* Propriedades CSS;
+* Criar um arquivo externo para estilizar a página;
+* Integrar o arquivo CSS ao arquivo HTML.
+* Utilizar as cores no CSS;
+* Utilizar as cores hexadecimais no CSS;
+* Utilizar paleta de cores de terceiros;
+* Alterar as cores de fundo e dos textos;
+* Extrair a cor do Figma para utilizar no CSS;
+* Destacar o texto e alterar a cor do texto em destaque.
+
+# 2º passo
+* Dica: Pegar os elementos da esquerda pra direita / Cima pra baixo
+* Acrescentar _blank aos links para abrir em nova Guia
+* Imagem de perfil
+
+* Link para ver mais sobre as Tags Semânticas 
+https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics
+
+* Link sobre o Css:
+https://www.w3schools.com/css/
+
+# 3º Passo
+
+* Escolher paleta de Cores
+.color1 { #041122 };
+.color2 { #259073 };
+.color3 { #7fda89 };
+.color4 { #c8e98e };
+.color5 { #e6f99d };
+* 
+
+# Classes, posicionamento e Flexbox
+
+## Seletores e  Posicionamento
+
+### Nessa aula, você aprendeu:
+* Utilizar classes no HTML e CSS;
+* Boas práticas na criação das classes;
+* Posicionamento de elementos com CSS;
+* Importância de resetar o padrão do CSS;
+* Testar os elementos da página inspecionando via ferramenta de desenvolvimento;
+* Box model (margin, border e padding);
+* Diferentes seletores CSS.
+
+# Posicionando mais elementos
+
+### Nessa aula, você aprendeu:
+* Padrões de projetos CSS com height e box-sizing;
+* Unidade Viewport;
+* Hierarquia entre elementos pai e filho;
+* Formas e parâmetros de posicionamento;
+* Flexbox.
+
+# Estilo de textos e fontes
+
+## Alinhando o Conteúdo
+* Abertura de um Section pra separar em 2 elementos. dos textos e inputs da imagem.
+* Justfy-content:  comando responsável por justificar, formatando o posicionamento de acordo com o requisito do desenvolvedor. 
+
+# Identação
+Indentação é o espaçamento aplicado no início das linhas de código que ajuda a manter uma hierarquia visual
+
+## Código não identado
+
+html
+```<main>
+<div class=”titulos”>
+<h1>Título da página</h1>
+</div>
+<div class=”paragrafos”>
+<p>Primeiro parágrafo</p>
+<p>Segundo parágrafo</p>
+</div>
+</main>
+```
+
+## Código identado
+
+html
+```
+<main>
+    <div class=”titulos”>
+        <h1>Título da página</h1>
+    </div>
+    <div class=”paragrafos”>
+        <p>Primeiro parágrafo</p>
+        <p>Segundo parágrafo</p>
+    </div>
+</main>
+```
+
+## Iniciando com HTML
+Link: https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+# Importando Fontes
+
+## Fonts google
+https://fonts.google.com/
+
+Primeiros passos para importação : https://developers.google.com/fonts/docs/getting_started
+
+# O que aprendi
+* Criar seções (sections) no HTML;
+* Posicionar elementos com Flexbox utilizando o justify-content;
+* Indentar o código;
+* Boas práticas para nomear sections;
+* Utilizar o Figma para consultar medidas de elementos;
+* Alterar o tamanho, tipo e peso da fonte com font-size, font-family e font-weight;
+* Importar fontes com Google Fonts.
+
+# Manipulando os Botões
+
+## Quando ultilizar a Div
+A tag <div> define uma divisão em um documento HTML e costuma ser usada como um contêiner para outros elementos, o que ajuda na estilização do bloco.
+Além do mais, por ser muito utilizada para agrupar elementos, acaba facilitando na organização das informações nos layouts.
+
+Documentação Oficial : https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div
+
+## Esilizando os botões
+
+Sobre as bordas : https://www.alura.com.br/artigos/css-border-estilizando-bordas-elementos-css
+
+# Nessa aula, você aprendeu como:
+* Posicionar e estilizar botões;
+* Criar e utilizar divisões (divs) no projeto;
+* Identificar o espaçamento no Figma;
+* Retirar o sublinhado com o text-decoration;
+* Arredondar bordas com border-radius.
+
+# Ajustando o espaçamento
+
+## Recurso Gap https://css-tricks.com/almanac/properties/g/gap/
+
+A propriedade gap não é exclusiva do Flexbox, porém é utilizada quase sempre em conjunto com ele. Ela especifica no CSS o tamanho dos espaços entre linhas e colunas em layouts de grid, flex e multi-column. Sua sintaxe é bem simples e ela aceita um ou dois valores.
+
+### Para entender mais dessa propriedade em específico, recomendamos a leitura do artigo gap, presente no CSS-Tricks.
+https://css-tricks.com/
+
+## Outras propriedades importantes
+Se você deseja aprender sobre outras propriedades importantes para o Flexbox, leia o nosso artigo Flexbox CSS: Guia Completo, Elementos e Exemplos.
+https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+# Nessa aula, você aprendeu como:
+* Definir espaçamento vertical e horizontal;
+* Posicionar os elementos em coluna com Flexbox;
+* Utilizar o recurso Gap para espaçar cada elemento filho.
