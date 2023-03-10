@@ -1,17 +1,26 @@
-# Nome do meu projeto
+# Portfolio Gustavo Araujo
 
-Rápida descrição do objetivo de fazer esse projeto
+É um portfolio criado a partir dos cursos disponibilizados pela Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+| :sparkles: Nome        | **Meu Portfolio**
+| :label: Tecnologias | Html, Css.
+| :rocket: URL         | https://cursos.alura.com.br/formacao-html-css)
+| :fire: Desafio     | https://www.figma.com/file/ZnMPLtvNyTasYasIBd88Qv/Portfolio---Curso-1-(Copy)?node-id=1%3A11&t=xE3rdtTufDyVGpmC-1
 
 ## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+<h1>🚀 O projeto Será este
+<img src="https://media.discordapp.net/attachments/1081630236543811698/1083853763682521221/Group_2.png?width=960&height=455">
+<br>
+  <h2> 1️⃣ = Escolher paleta de cores </h2>
+    <img src="https://media.discordapp.net/attachments/1081630236543811698/1083853728085459105/paleta-de-cores.png?width=960&height=540">
+  <h2> 2️⃣ = Definir texto e Foto.
+    <h3> Texto</h3>
+    <p>Bem vindo ao meu primeiro projeto, meu nome é:<strong>Gustavo Araújo</strong>
+            <p>Sou desenvolvedor <strong>Front-end</strong> me especializando em HTML, CSS.Focando atualmente em me especializar nos fundamentos do CSS, para passar ao JavaScript!</p>
+    <h3> Foto</h3>
+    <img src="https://media.discordapp.net/attachments/1081630236543811698/1083853763430842570/eu-e-minha-filha.png">
+    
+   <h2> 3️⃣ 1º parte do Curso Resultado
+     <img src="https://media.discordapp.net/attachments/1081630236543811698/1083868591859962009/Screenshot_1.png?width=916&height=640">
